@@ -13,10 +13,7 @@ Whatsapp web clone with Whatsapp web like UI and functionalities built using Rea
 
 ![App Screenshot](https://i.ibb.co/X4SSHxQ/whatsapp-web-clone.gif)
 
-## Acknowledgements
 
- - [sonny sangha](https://github.com/sonnysangha)
-  
 ## Features
 
 - Progressive Web App (PWA)
